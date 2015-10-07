@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Server3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="CONNECT">CONNECT</string>
+    <string name="SEND">SEND</string>
+    <string name="RECEIVE">RECEIVE</string>
+</resources>
